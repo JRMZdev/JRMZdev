@@ -2,7 +2,7 @@
 **About:**
 
 - 👋 Hi, I’m Julian.
-- 💻 I have worked on Frontend web development projects. Currently, I'm upgrading my skills by working on **Full Stack web development.**
+- 💻 I have worked on Frontend projects. Currently, I'm upgrading my skills by working on **Full Stack web development.**
 
 **Personal Website:**
 - [jrmz.pages.dev](https://jrmz.pages.dev/)
