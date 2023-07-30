@@ -11,12 +11,12 @@
 
 - Pulpas La Granja
     - www.pulpaslagranja.com
-- BlueCrypto
-    - [Project Link](https://jrmzdev.github.io/blue-crypto/)
 - Mercado Li(e)bre 
     - [Repository Link](https://github.com/JRMZdev/Mercado-Liebre)
 - GreenGood 
     - [Repository Link](https://github.com/DiegoMoyan0/grupo_15_GreenGood/tree/feature)
+- BlueCrypto
+    - [Project Link](https://jrmzdev.github.io/blue-crypto/)
 
 **Tech Stack:**
 
