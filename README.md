@@ -14,7 +14,7 @@
 - BlueCrypto
     - [Project Link](https://jrmzdev.github.io/blue-crypto/)
 - Mercado Li(e)bre 
-    - [Project Link](https://mercado-liebre-ohsj.onrender.com/)
+    - [Repository Link](https://github.com/JRMZdev/Mercado-Liebre)
 - GreenGood 
     - [Repository Link](https://github.com/DiegoMoyan0/grupo_15_GreenGood/tree/feature)
 
