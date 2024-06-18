@@ -14,7 +14,7 @@
 - Mercado Li(e)bre 
     - [Repository Link](https://github.com/JRMZdev/Mercado-Liebre)
 - GreenGood 
-    - [Repository Link](https://github.com/DiegoMoyan0/grupo_15_GreenGood/tree/feature)
+    - [Repository Link](https://github.com/DiegoMoyan0/grupo_15_GreenGood/tree/master)
 - BlueCrypto
     - [Project Link](https://jrmzdev.github.io/blue-crypto/)
 
