@@ -20,17 +20,7 @@
 
 **Tech Stack:**
 
-[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=express)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,express,nodejs,git,aws)](https://skillicons.dev)
 
 <!---
 JRMZdev/JRMZdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
